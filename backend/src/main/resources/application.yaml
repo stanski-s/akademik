@@ -2,8 +2,8 @@ spring:
   application:
     name: akademik
   datasource:
-    url: jdbc:postgresql://localhost:5432/postgres
+    url: jdbc:postgresql://localhost:5433/postgres
     username: postgres
     password: postgres
 server:
-  port: 8082
+  port: 8085

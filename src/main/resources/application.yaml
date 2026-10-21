@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: akademik
-
-server:
-  port: 8080
